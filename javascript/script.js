@@ -1,1 +1,1 @@
-console.log("botostart.ir");
+console.log("botostart");
